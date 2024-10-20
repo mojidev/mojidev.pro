@@ -1,4 +1,5 @@
-const images = {
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const images: any = {
   AccessIcon: new URL("./AccessIcon.svg", import.meta.url).href,
   AnyfileIcon: new URL("./AnyfileIcon.svg", import.meta.url).href,
   ArrowIcon: new URL("./ArrowIcon.svg", import.meta.url).href,
