@@ -1,3 +1,18 @@
+# MOJIDEV Landing Page
+
+This is the landing page for MOJIDEV, a software development company based in Colombia.
+
+## Technologies
+- React
+- TypeScript
+- Vite
+- ESLint
+- Prettier
+
+## Deployment
+
+The landing page is deployed to AWS S3 and CloudFront. The deployment is automated using GitHub Actions.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
